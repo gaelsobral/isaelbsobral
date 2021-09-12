@@ -10,6 +10,7 @@
 - 🎵 Sempre ouvindo música
 - 💭 Interessado em Filosofia
 - 🏳️‍🌈 Pronomes: ele/dele 
+
 ##
 
 <div>
@@ -29,7 +30,9 @@
   <img align="right" alt="Isael-Gif" height="150" width="240" src="https://media.giphy.com/media/mKN2p4aHbv9WCQgbVW/giphy.gif?cid=ecf05e475wvrwygki4cr1snb01mkkuqehf1snlia366blhvh&rid=giphy.gif&ct=g">
 
 </div>
+  
   ##
+  
   <div> 
     <a href = "mailto:isael.sobral@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
     <a href="https://www.facebook.com/isaelbsobral" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
