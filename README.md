@@ -38,6 +38,7 @@
     <a href="https://steamcommunity.com/id/isaelbsobral/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
     <a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=b4265a84866440c4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
  </div>
-  ![Snake animation](https://github.com/rafaballerini/isaelbsobral/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/isaelbsobral/isaelbsobral/blob/output/github-contribution-grid-snake.svg)
   
   ###### "Eu não sei o que quero ser, mas sei muito bem o que não quero me tornar." -Friedrich Nietzsche
