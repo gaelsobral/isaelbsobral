@@ -27,7 +27,7 @@
   <img align="center" alt="Isael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Isael-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> 
 
-  <img align="right" alt="Isael-Gif" height="150" width="240" src="https://media.giphy.com/media/mKN2p4aHbv9WCQgbVW/giphy.gif?cid=ecf05e475wvrwygki4cr1snb01mkkuqehf1snlia366blhvh&rid=giphy.gif&ct=g">
+  <img align="right" alt="Isael-Gif" height="150" width="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 </div>
   
