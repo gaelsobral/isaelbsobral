@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Isael Sobral! 🖖🏼 
 ##
 #### Bem-vindx ao meu perfil! Aqui você encontrará minha caminhada atual no mundo da programação. 
-#### 👨🏻‍🎓 Formando no curso técnico em Desenvolvimento de Sistemas pelo SENAI e no 5º semestre do Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA.
+#### 👨🏻‍🎓 Estou no 5º semestre do Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA.
 - 📚 Estudando Java, Python, Ruby e JavaScript
 - 👨‍💼 Trabalhando com telemarketing
 - 💻 Apreciador de Tecnologia
