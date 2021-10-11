@@ -35,9 +35,9 @@
   
   <div> 
     <a href = "mailto:isael.sobral@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
-    <a href="https://www.facebook.com/isaelbsobral" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/isael-sobral/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-     <a href="https://t.me/Gaelsobral" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a><a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=b4265a84866440c4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+     <a href="https://t.me/Gaelsobral" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=b4265a84866440c4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
  </div>
   
   ![Snake animation](https://github.com/isaelbsobral/isaelbsobral/blob/output/github-contribution-grid-snake.svg)
