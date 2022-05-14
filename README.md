@@ -2,10 +2,10 @@
 ##
 #### Bem-vindx ao meu perfil! Aqui você encontrará minha caminhada atual no mundo da programação. 
 #### 👨🏻‍🎓 Estou no 6º semestre do Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA.
-- 📚 Estudando Java, Python, Ruby e JavaScript
+- 📚 Estudando Java, Python, C e C++
 - 👨‍💼 Trabalhando com telemarketing
 - 💻 Apreciador de Tecnologia
-- 👨🏻‍🚀 Amante de Astronomia
+- 👨🏻‍🚀 Amante do universo
 - ☕ Fã de café
 - 🎵 Sempre ouvindo música
 - 💭 Interessado em Filosofia
