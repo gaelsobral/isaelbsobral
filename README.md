@@ -1,9 +1,9 @@
 ### Olá! Eu me chamo Isael Sobral! 🖖🏼 
 ##
 #### Bem-vindx ao meu perfil! Aqui você encontrará minha caminhada atual no mundo da programação. 
-#### 👨🏻‍🎓 Estou no 6º semestre do Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA com ênfase em Computação.
+#### 👨🏻‍🎓 Estou no 7º semestre do Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA com ênfase em Computação.
 - 📚 Estudando Python
-- 👨‍💼 Trabalhando com telemarketing
+- 👨‍💼 Trabalhando com atendimento 
 - 💻 Apreciador de Tecnologia
 - 👨🏻‍🚀 Amante do universo
 - ☕ Fã de café
@@ -27,7 +27,7 @@
   <img align="center" alt="Isael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt= "Isael-C++" height ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
-  <img align="right" alt="Isael-Gif" height="150" width="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Isael-Gif" height="120" width="210" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 </div>
   
