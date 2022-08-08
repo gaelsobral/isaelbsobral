@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Isael Sobral! 🖖🏼 
 ##
 #### Bem-vindx ao meu perfil! Aqui você encontrará minha caminhada atual no mundo da programação. 
-#### 👨🏻‍🎓 Estou no 7º semestre do Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA com ênfase em Computação.
+#### 👨🏻‍🎓 Graduando em Ciência e Tecnologia na UFBA com ênfase em Computação.
 - 📚 Estudando Python
 - 👨‍💼 Trabalhando com atendimento 
 - 💻 Apreciador de Tecnologia
