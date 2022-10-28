@@ -4,7 +4,6 @@
 #### 👨🏻‍🎓 Graduando em Ciência e Tecnologia na UFBA com ênfase em Computação.
 - 📚 Estudando Python
 - 👨‍💼 Trabalhando como Técnico em Informática
-- 💻 Apreciador de Tecnologia
 - 👨🏻‍🚀 Amante do universo
 - ☕ Fã de café
 - 🎵 Sempre ouvindo música
