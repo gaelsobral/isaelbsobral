@@ -3,9 +3,8 @@
 #### Bem-vindx ao meu perfil! Aqui você encontrará minha caminhada atual no mundo da programação. 
 #### 👨🏻‍🎓 Graduando em Ciência e Tecnologia na UFBA com ênfase em Computação.
 - 📚 Estudando Python
-- 👨‍💼 Trabalhando como Técnico em Informática
+- 👨‍💼 Trabalhando com Atendimento
 - 👨🏻‍🚀 Amante do universo
-- ☕ Fã de café
 - 🎵 Sempre ouvindo música
 - 💭 Interessado em Filosofia
 - 🏳️‍🌈 Pronomes: ele/dele 
