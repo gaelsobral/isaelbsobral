@@ -5,9 +5,6 @@
 - 📚 Estudando Python
 - 👨‍💼 Trabalhando com Atendimento
 - 👨🏻‍🚀 Amante do universo
-- 🎵 Sempre ouvindo música
-- 💭 Interessado em Filosofia
-- 🏳️‍🌈 Pronomes: ele/dele 
 
 ##
 
